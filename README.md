@@ -5,7 +5,9 @@
 ## Скачать
 
 - **Windows:** `KwynthVPN-Setup.exe`
-- **Android:** `KwynthVPN.apk`
+- **Android (основной, большинство телефонов):** `KwynthVPN-arm64-v8a.apk`
+- **Android (старые устройства):** `KwynthVPN-armeabi-v7a.apk`
+- **Android x86_64 (эмуляторы/редкие устройства):** `KwynthVPN-x86_64.apk`
 
 ## Быстрый старт
 
@@ -15,7 +17,7 @@
 3. Откройте KwynthVPN и импортируйте свою VLESS-ссылку
 
 ### Android
-1. Скачайте `KwynthVPN.apk`
+1. Скачайте APK под вашу архитектуру (обычно `KwynthVPN-arm64-v8a.apk`)
 2. При необходимости разрешите установку из неизвестных источников
 3. Установите приложение и импортируйте свою VLESS-ссылку
 
